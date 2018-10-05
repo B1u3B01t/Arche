@@ -283,7 +283,7 @@ For a similar reason, your fork (Origin) and the original repository (Upstream) 
 > Step 2
 
 To update your fork, execute the following:
-
+#
 <pre>
 git push origin master
 </pre>
