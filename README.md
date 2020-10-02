@@ -290,4 +290,4 @@ git push origin master
 
 It is important that the above 2 commands are done in the same order as given above i.e. pull first and push second.
 
-# Fin.
+# Finish.
